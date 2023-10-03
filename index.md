@@ -18,3 +18,9 @@ public class Program {
   }
 }
 ```
+
+#### task list
+
+- [ ] Turn on githib pages
+- [x] Outline my portfolio
+- [ ] Indroduce myself to the world
