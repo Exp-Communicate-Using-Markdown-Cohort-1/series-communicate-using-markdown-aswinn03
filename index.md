@@ -7,3 +7,14 @@ there exists like upto 6 heading types
 #### image
 
 ![image of GitHub invertocat logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+#### code snippet
+
+```
+// java code to say hello World
+public class Program {
+  public static void main(String[] args){
+    System.out.println("Hello, GitHub");
+  }
+}
+```
